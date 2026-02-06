@@ -86,7 +86,7 @@ a.home-link:hover {
 </ul>
 
 
-    <a href="https://github.com/your-repo-link" class="btn-custom">View GitHub Project</a>
+    <a href="https://github.com/anissyafika82/safecampus" class="btn-custom">View GitHub Project</a>
     <br>
 
     <div class="footer">
